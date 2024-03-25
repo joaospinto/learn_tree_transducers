@@ -1,0 +1,8 @@
+a(b(c),d)|a(b(c),d)
+b(c)|d
+c|d
+b(b(d))|d
+a(c,d)|d
+d|c
+a(a(c,c),d)|c
+a(d,d)|b(c)

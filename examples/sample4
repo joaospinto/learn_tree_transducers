@@ -1,0 +1,5 @@
+a(c,d)|c
+a(a(d,c),d)|d
+d|c
+c|d
+a(d,c)|d
